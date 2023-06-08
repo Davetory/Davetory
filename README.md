@@ -1,8 +1,6 @@
-- **Note: The repositories in this account was relocated from another account linked with my school email. Please refer to @DavidHDT for a complete record of my contributions, and I am happy to discuss any skills and experience regarding the existing projects. I acknowledge that all projects existing in this GitHub account have been developed by me (w/collaborators), and that they are our collective assets.
-
-- 👋 Welcome to David's project corner. As a passionate full-stack developer with experience in building robust and scalable applications, my expertise lies in Python, Java, Javascript, Cloud services, AI/ML pipelines, and Data Mining techniques. I'm always eager to learn and traverse the latest trends in the tech industry.
-- 👀 Fun fact about me: Singing is an efficient solution to any bugs I have encountered. Why? Because for me, every application is just as a musical piece, where a music scale represents a multi-layered issue in which you have to look for the root problem and go through every step. By tailoring each and every note of the song, you are, metaphorically, paying attention to every detail of the program structure. 
-- 🌱 I am interested in and exploring Data Science and Machine Learning. It would be nice to have a chat about these emerging topics with someone having the same interests and concerns. 
+- 👋 Welcome to David's project corner. As a passionate full-stack developer with experience in building robust and scalable applications, my expertise lies in Python, Java, Javascript, and AI/ML pipelines. I'm always eager to learn and traverse the latest trends in the tech industry.
+- 👀 Fun fact about me: Singing helps me identify bugs. Why? I don't even know. Maybe it is just about work-life balance, making it essential to mind your pace within the scope of work.
+- 🌱 I am interested in and exploring Data Mining and Machine Learning world. It would be nice to have a chat about these emerging topics with someone having the same interests and concerns. I am also open to discuss related or even new research opportunities.
 - 📫 Feel free to explore my repositories and projects, and don't hesitate to reach out @hai.david.vu@gmail.com or Gruhh#5298 on Discord if you have any questions or would like to collaborate on a project. Thanks for visiting and enjoy!
 
 <!---
